@@ -1,1 +1,1 @@
-{'bitcoin': {'name': 'bitcoin', 'quantity': 100, 'buy-date': '20-03-2014', '%': 0, 'Win/Loss': 0}, 'ethereum': {'name': 'ethereum', 'quantity': 25, 'buy-date': '25-07-2016', '%': 0, 'Win/Loss': 0}, 'xrp': {'name': 'xrp', 'quantity': 10000, 'buy-date': '29-12-2020', '%': 0, 'Win/Loss': 0}}
+{"bitcoin": {"name": "bitcoin", "quantity": 100, "buy-date": "20-03-2014", "%": 0, "Win/Loss": 0}, "ethereum": {"name": "ethereum", "quantity": 25, "buy-date": "25-07-2016", "%": 0, "Win/Loss": 0}, "xrp": {"name": "xrp", "quantity": 10000, "buy-date": "29-12-2020", "%": 0, "Win/Loss": 0}}
